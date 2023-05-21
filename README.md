@@ -1,5 +1,7 @@
 # responsive-website
 
+> 该项目用来学习如何开发响应式页面，和暗黑模式应用。
+
 [ScrollReveal](https://scrollrevealjs.org/) 顾名思义**滚动展示**，利用这个库实现滚动时动画展示页面元素的效果。
 
 Note：将 `<script>` 标签放在结束 `</body>` 标签之前，允许文档内容在脚本完成加载之前开始呈现。通常这对性能有好处，但这也意味着在 ScrollReveal 接管之前，内容可以短暂可见。这最终可能导致页面闪烁的问题。
@@ -14,3 +16,6 @@ Note：将 `<script>` 标签放在结束 `</body>` 标签之前，允许文档�
 
 综上所述，就是给所有需要应用滚动动画的元素添加`visiblity:hidden`这个属性，当然必须和 `html.sr` 关联。
 
+## 项目链接
+
+https://github.com/ForiduzzamanZihad/Plantex
